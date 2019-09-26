@@ -1,4 +1,3 @@
-
 var userName = prompt('What is your name')
 
 var i = 0;
