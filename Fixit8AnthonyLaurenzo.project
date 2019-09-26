@@ -29,6 +29,14 @@
             "names", 
             "names.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "sum", 
+            "sum.json"
+          ]
         }
       ], 
       "configxml": null, 
